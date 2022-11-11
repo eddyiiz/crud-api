@@ -1,0 +1,6 @@
+//getting all 
+GET http://localhost:3030/users
+###
+
+//getting one 
+GET http://localhost:3030/users/12
